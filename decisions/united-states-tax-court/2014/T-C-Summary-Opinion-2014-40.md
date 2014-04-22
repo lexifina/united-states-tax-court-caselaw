@@ -1,0 +1,452 @@
+---
+court: "United States Tax Court"
+docket: "20199-12S"
+decided: "2014-04-22"
+citations: ["T.C. Summary Opinion 2014-40"]
+reporter: "tc-summary"
+document_type: "summary opinion"
+document_title: "SUMMARY OPINION, S.T. JUDGE GUY . T.C. 2014-40 (DECISION WILL BE ENTERED UNDER RULE 155)."
+precedential_status: "nonprecedential"
+precedential_note: "a summary opinion in a small tax case: under 26 U.S.C. §7463(b) it may not be treated as precedent for any other case"
+judges: "Guy ."
+parties: ["Samer Mikhail & Mariana Mikhail, Petitioners"]
+source_url: "https://dawson.ustaxcourt.gov/case-detail/20199-12"
+source: "United States Tax Court, DAWSON (dawson.ustaxcourt.gov), the Court's official case system; a work of the US Government (17 U.S.C. §105)"
+dawson_entries: [{"docket": "20199-12", "docketEntryId": "b96f3f12-2682-4638-8b00-b207366c723f", "pages": 24}]
+---
+
+# Samer Mikhail & Mariana Mikhail v. Commissioner
+
+## Summary opinion (Guy .)
+
+T.C. Summary Opinion 2014-40
+UNITED STATES TAX COURT
+SAMER MIKHAIL AND MARIANA MIKHAIL, Petitioners y.
+COMMISSIONER OF INTERNAL REVENUE, Respondent
+Docket No. 20199-12S. Filed April 22, 2014.
+Samer Mikhail and Mariana Mikhail, pro sese.
+William R. Brown, Jr., for respondent.
+SUMMARY OPINION
+GUY, Special Trial Judge: This case was heard pursuant to the provisions
+of section 7463 ofthe Internal Revenue Code in effect when the petition was
+filed.¹ Pursuant to section 7463(b), the decision to be entered is not reviewable by
+¹Unless otherwise indicated, section references are to the Internal Revenue
+(continued...)
+SERVED APR 2 2 2014
+- 2 -
+any other court, and this opinion shall not be treated as precedent for any other
+case.
+Respondent determined a deficiency of $8,286 in petitioners' Federal
+income tax for 2009 and an accuracy-related penalty of $1,657 pursuant to section
+6662(a). Petitioners, husband and wife, filed a timely petition for redetermination
+with the Court pursuant to section 6213(a).
+The issues for decision are: (1) whether petitioners engaged in sales and
+recruiting activities for profit within the meaning of section 183, (2) if so, whether
+petitioners substantiated deductions they claimed for vehicle and travel expenses,
+and (3) whether petitioners are liable for an accuracy-related penalty under section
+6662(a). To the extent not discussed herein, other adjustments are computational
+and flow from our decision in this case.
+Background
+Some ofthe facts have been stipulated and are so found. The stipulation of
+facts and the accompanying exhibits are incorporated herein by this reference. At
+the time the petition was filed, petitioners resided in Florida.
+-¹(...continued) Code (Code), as amended and in effect for 2009, and Rule references are to the Tax Court Rules of Practice and Procedure. All monetary amounts are rounded to the nearest dollar.
+-3 -
+I. Petitioners
+Dr. Mikhail graduated from the New York College of Osteopathic Medicine
+in 2004 and completed his medical residency at the University of South Florida in
+2007. Since then, he has worked full time as a physician practicing internal
+medicine at a hospital operated by the U.S. Department of Veterans Affairs in
+Florida.
+The wages that Dr. Mikhail earns as a physician are petitioners' primary
+source of income. During 2007, the final year of his medical residency, Dr.
+Mikhail earned $64,097. His wages during 2008, 2009, 2010, and 2011 were
+$145,235, $157,621, $165,146, and $168,627, respectively.
+Mrs. Mikhail graduated from Baruch College in New York with a
+bachelor's degree in international marketing in 1999. She worked for Myers
+International and later R.J. Reynolds in New York City between 1999 and 2003.
+Petitioners are the parents of two children, a son born in 2003 and a
+daughter born in 2009. Since 2004, Mrs. Mikhail has had some short-term, part-
+time jobs, but she has primarily been a homemaker.
+- 4 -
+II. Amway
+Amway Corp. (Amway) is a supplier of household, cosmetic, and nutritional
+products that are sold by individuals (distributors) through direct marketing.
+Amway's compensation of its distributors is based on the volume of the
+distributors' sales to customers and the volume of sales made by "downline"
+distributors. Amway distributors are permitted to purchase Amway products for
+personal consumption at a discounted price.
+Amway's compensation system for distributors results in a pyramidlike
+network of distributors. Under this system an "upline" or "sponsor" distributor is
+encouraged.to recruit new "downline" distributors to become part of his or her
+organization. "Downline" distributors likewise are encouraged to recruit new
+distributors who in turn become "legs" ofthe original "upline" distributor's
+organization. "Downline" distributors recruited by the same "upline" distributor
+are referred to as "crossline" distributors. An "upline" distributor receives bonus
+payments from Amway based on the volume of sales (as opposed to profits)
+generated by the "downline" distributors who are part of his or her organization.2
+2See Nissley v. Commissioner, T.C. Memo. 2000-178, for a more complete description ofAmway's compensation system.
+- 5 -
+III. Petitioners' Amway Activities
+Dr. Mikhail was recruited as an Amway distributor by his dentist in 2004,
+and he began to operate a distributorship under the name "The Logos". At the
+time petitioners had no experience in direct marketing or operating a small
+business.
+Dr. Mikhail testified that he conducted independent research to learn more
+about Amway. He concluded that negative assessments about the Amway
+business model are attributable to individuals "who did not follow the system".
+Petitioners conducted their Amway activities in accordance with
+instructions from their "upline" distributors, educational materials obtained from
+an Amway-related educational system known as Leadership Team Development
+(LTD),3 and information obtained while attending Amway seminars, workshops,
+and conferences. Petitioners did not seek advice from disinterested professionals,
+develop a business plan, prepare profit projections, or undertake any type of
+market analysis.
+Petitioners attended weekly and monthly Amway meetings held locally and
+elsewhere in Florida. During 2009 they attended five national Amway
+3LTD sells books and CDs that contain instruction and training for Amway distributors.
+- 6 -
+conferences most ofwhich were held out of State. Petitioners also hosted some
+weekly meetings for Amway distributors and recruits in their home. Petitioners
+took trips to New York and Texas to discuss Amway with family and friends.
+Dr. Mikhail testified that the time he devotes to Amway activities is largely
+directed at recruiting new distributors. He further testified that he usually spends
+his lunch hour, as well as an hour or two after work, and approximately three
+hours every weekend on Amv/ay activities and that Amway is always "at the
+forefront" ofhis mind. Dr. Mikhail spent more time on Amway activities than
+Mrs. Mikhail.
+Mrs. Mikhail testified that she is responsible for bookkeeping, business
+management, and organization ofAmway parties and events. During 2009 she
+maintained records ofthe couple's Amway-related expenses including a mileage
+log, a spreadsheet listing monthly expenses, and credit card statements.
+Petitioners did not use their Amway records to prepare a formal budget or conduct
+a break-even analysis.
+Petitioners sold Amway products to family members, close friends, and
+coworkers. At the time oftrial, petitioners had 22 customers who purchased
+Amway products from them sporadically. Petitioners testified thàt approximately
+70-75% oftheir Amway sales volume was attributable to products and services
+- 7 -
+that they purchased for personal consumption such as food, diapers, clothing, and
+household products. They also enjoyed Amway-related discounts on products and
+services purchased from businesses and retailers such as Disney, Sony, Nike, and
+Best Buy.
+Petitioners initially attempted to recruit family members and friends as
+"downline" distributors but found that most of them were unable to "overcome
+their life circumstances and continue to build Amway with us". Petitioners later
+altered their recruitment strategy by frequenting upscale restaurants and shopping
+areas and striking up conversations with people they encountered with the aim of
+identifying what they termed "learners". Petitioners purchased books and CDs
+from LTD and gave them to potential recruits.
+Although petitioners testified that they registered some "downline"
+distributors along the way, by the end of 2008 they had no "downline"
+distributors. Dr. Mikhail acknowledged that he was unable to spend sufficient
+time on Amway activities while he was fulfilling his medical residency
+requirements between 2004 and 2007. In 2009 petitioners recruited a "downline"
+distributor who apparently began to register her own "downline" distributors
+(thereby expanding petitioners' organization).
+- 8 -
+IV. Petitioners' Amway Losses
+Petitioners filed joint Federal income tax returns for the years 2005 through
+2011. Petitioners attached to each ofthose returns a Schedule C, Profit or Loss
+From Business, identifying Dr. Mikhail as the "proprietor" of a "sales and ·
+recruiting" business. As of the time oftrial petitioners had never reported an
+annual profit from their Amway activity. From 2005 to 2011 petitioners reported
+cumulative net losses attributable to the Amway activity of $192,427 as follows:
+Gross Tax year receipts Net loss
+2005 $613 ($15,943)
+2006 1,924 (20,136)
+2007 3,725 (29,298)
+2008 3,229 (41,598)
+2009 4,811 (39,919)
+2010 5,728 (38,825)
+2011 9,459 (6,708)
+Total 29,489 (192,427)
+Petitioners testified that they believed that they would eventually earn
+profits from the Amway activity over the long run and that the activity would
+provide financial benefits to their family for years to come. Petitioners further
+_ 9 _
+testified that the losses they have incurred will be offset by gains that they expect
+to earn in 2014 and the years thereafter.
+V. Petitioners' 2009 Tax Return
+Petitioners timely filed a joint Federal income tax return for 2009 reporting
+that Dr. Mikhail and Mrs. Mikhail earned wages of $157,621 and $419,
+respectively. Petitioners attached to the return a Schedule C reporting gross
+receipts of $4,811, expenses.of $44,730, and a net loss of $39,919 in respect of the
+Amway activity. Petitioners reported the following Amway-related expenses:
+Item Amount
+Vehicle $17,548 Legal/professional services 1,325 Office expenses 248 Suppliesi 11,634 Travel 8,003 Meals and entertainment 68 Other expenses 5,904 Total 44,730
+¹This item represents the amount petitioners paid to LTD for Amway training materials.
+Petitioners reported total tax of $9,994 for 2009.
+- 10 -
+VI. Notice ofDeficiency and Increased Deficiency
+Respondent issued a notice of deficiency to petitioners disallowing the
+deductions they claimed on Schedule C for vehicle and travel expenses for lack of
+substantiation. Respondent determined a tax deficiency of $8,286 and an
+accuracy-related penalty under section 6662(a).
+After filing an initial answer to the petition, respondent filed an amended
+answer alleging that petitioners did not engage in the Amway activity with the
+intent of earning a profit in 2009 and they are not entitled to deductions (in excess
+oftheir gross receipts from the activity) in accordance with the provisions of
+section 183. In conjunction with these allegations, respondent asserted that
+petitioners are liable for an additional deficiency and an increased accuracy-related
+penalty under section 6662(a).
+VII. Tax Return Preparation
+Petitioners delivered their tax records for 2009 to Ron Hienstand, a certified
+public accountant.(C.P.A.), who has prepared their tax returns since 2008.
+Mr. Hienstand prepared the return in accordance with petitioners' tax records and
+filed the return electronically. Petitioners testified that they relied on
+Mr. Hienstand to properly prepare their return.
+- 11 -
+Discussion
+The Commissioner's determination of a taxpayer's liability in a notice of
+deficiency normally is presumed correct, and the taxpayer bears the burden of
+proving that the determination is incorrect. Rule 142(a); Welch v. Helvering, 290
+U.S. 111, 115 (1933). The Commissioner bears the burden ofproof, however, in
+respect of an increased deficiency. Rule 142(a)(1). As previously mentioned,
+respondent filed an amended answer asserting that petitioners are liable for an
+increased deficiency and accuracy-related penalty on the ground they did not
+engage in the Amway activity with the requisite profit objective. Consequently,
+respondent bears the burden ofproof on that issue. See sec. 7491(a)(1) and (2);
+Higbee v. Commissioner, 116 T.C. 438, 442-443 (2001).
+I. Section 183
+Under section 183(a), if an activity is not engaged in for profit, then no
+deduction attributable to that activity is allowed except to the extent provided by
+section 183(b). In pertinent part, section 183(b) allows those deductions that
+would have been allowable had the activity been engaged in for profit only to the
+extent of gross income derived from the activity (reduced by deductions
+attributable to the activity that are allowable without regard to whether the activity
+was engaged in for profit).
+- 12 -
+Section 183(c) defines an activity not engaged in for profit as "any activity
+other than one with respect to which deductions are allowable for the taxable year
+under section 162 or under paragraph (1) or (2) of section 212." Deductions are
+allowable under section 162 or under section 212(1) or (2) if the taxpayer is
+engaged in the activity with the "actual and honest objective ofmaking a profit".
+Dreicer v. Commissioner, 78 T.C. 642, 645 (1982), aff'd without published
+opinion, 702 F.2d 1205 (D.C. Cir. 1983); Golanty v. Commissioner, 72 T.C. 411,
+426-427 (1979), aff'd without published opinion, 647 F.2d 170 (9th Cir. 1981).
+The existence ofthe requisite profit objective is a question of fact that must
+be decided on the basis ofthe entire record. Elliott v. Commissioner, 84 T.C. 227,
+236 (1985), aff'd without published opinion, 782 F.2d 1027 (3d Cir. 1986);
+Dreicer v. Commissioner, 78 T.C. at 645; sec. 1.183-2(b), Income Tax Regs. In
+resolving this factual question, greater weight is given to objective facts than to a
+taxpayer's statement of intent. See Westbrook v. Commissioner, 68 F.3d 868,
+875-876 (5th Cir. 1995), aff'g T.C. Memo. 1993-634; sec. 1.183-2(a), Income Tax
+Regs. For purposes ofdeciding whether the taxpayer has the requisite profit
+objective, profit means economic profit, independent of tax savings. Surloffv.
+Commissioner, 81 T.C. 210, 233 (1983).
+- 13 -
+The regulations set forth a nonexhaustive list of factors that may be
+considered in deciding whether a profit objective exists. These factors are: (1) the
+manner in which the taxpayer carries on the activity; (2) the expertise ofthe
+taxpayer or his advisers; (3) the time and effort expended by the taxpayer in
+carrying on the activity; (4) the expectation that the assets used in the activity may
+appreciate in value;4 (5) the taxpayer's success in carrying on other similar or
+dissimilar activities; (6) the taxpayer's history of income or losses with respect to
+the activity; (7) the amount of occasional profits, if any, which are earned; (8) the
+financial status ofthe taxpayer; and (9) any elements indicating personal pleasure
+or recreation. Sec. 1.183-2(b), Income Tax Regs.
+No single factor, nor even the existence of a majority of factors supporting
+or rebutting the existence of a profit objective, is controlling. Id. Rather, all facts
+and circumstances with respect to the activity are to be taken into account.
+Golanty v. Commissioner, 72 T.C. at 426; sec. 1.183-2(b), Income Tax Regs.
+A. Manner in Which Petitioners Carried On the Amway Activity
+If a taxpayer carries on the activity in a businesslike manner and maintains
+complete and accurate books and records, it may indicate a profit objective. Sec.
+4Petitioners did not identify any assets used in the Amway activity that they expected to appreciate in value. Thus, this factor is not relevant to our analysis.
+- 14 -
+1.183-2(b)(1), Income Tax Regs. However, if there is a lack of evidence that the
+taxpayer's records were used to improve the performance of a losing operation,
+such records generally do not indicate a profit objective. Golanty v.
+Commissioner, 72 T.C. at 430; see Campbell v. Commissioner, T.C. Memo. 2011-
+42, 2011 WL 667973, at *5-*6. Keeping records only for purposes ofpreparing
+tax returns is not indicative of a profit objective. See Rowden v. Commissioner,
+T.C. Memo. 2009-41; Kinney v. Commissioner, T.C. Memo. 2008-287.
+Although petitioners kept records oftheir Amway expenses, they did not
+use those records to analyze their business performance or to prepare profit
+projections, a break-even analysis, or a formal budget. Despite several years of
+activity during which they realized cumulative net losses of $192,427, petitioners
+failed to make any meaningful change in their strategy or tactics in an effort to
+increase the likelihood of earning a profit. On this record, it is a fair inference that
+petitioners used their records only to compute the amounts of losses attributable to
+the Amway activity when preparing their tax returns. Considering all the facts and
+circumstances, we conclude that petitioners did not conduct the Amway activity in
+a businesslike manner.
+- 15 -
+B. Expertise of Petitioners or Their Advisers
+Preparation for the activity by extensive study of its accepted business
+practices, or consultation with those who are expert therein, may indicate a profit
+objective where the taxpayer carries on the activity in accordance with such
+practices. Sec. 1.183-2(b)(2), Income Tax Regs. Petitioners had no experience in
+direct marketing activities or operating a small business before Dr. Mikhail was
+recruited as an Amway distributor in 2004. Petitioners obtained advice only from
+"upline" distributors--persons who had a direct financial interest in the
+maximization ofpetitioners' sales volume, without regard to whether they would
+realize a profit. See Ogden v. Commissioner, T.C. Memo. 1999-397 (Amway
+"upline" distributors' advice may be biased because of financial interest in
+"downline" distributor's sales volume), aff'd, 244 F.3d 970 (5th Cir. 2001).
+Moreover, considering their lack of expertise, we find it noteworthy that
+petitioners did not attempt to educate themselves by conducting an independent
+market analysis or drafting a business plan for the Amway activity. This factor
+weighs against petitioners.
+- 16 -
+C. The Time and Effort Expended by Petitioners in Carrying On
+the Activity
+The fact that the taxpayer devotes substantial time and effort to carrying on
+an activity may indicate an intention to derive a profit. Sec. 1.183-2(b)(3), Income
+Tax Regs. Petitioners attended local Amway meetings weekly and monthly, and
+they attended Amway conferences (often out of State) regularly. Nevertheless,
+Dr. Mikhail candidly admitted that he was not able to devote sufficient time and
+effort to the Amway activity during 2004 to 2007--the period of his medical
+residency. As we see it, he likewise was not able to devote sufficient time to the
+activity after 2007 taking into account his obligations as a full-time physician.
+Petitioners acknowledged that Dr. Mikhail spent more time on the activity than
+Mrs. Mikhail. Under the circumstances, we conclude petitioners did not spend a
+significant amount oftime on the Amway activity. See Kinney v. Commissioner,
+T.C. Memo. 2008-287. This factor weighs against petitioners.
+D. Petitioners' Success in Carrying Out Other Similar or Dissimilar
+Activities
+The fact that the taxpayer has engaged in similar activities in the past and 042
+converted them from unprofitable to profitable enterprises may indicate that the
+activity in question was engaged in for profit, even though the activity is presently
+unprofitable. Sec. 1.183-2(b)(5), Income Tax Regs. Petitioners had no prior
+- 17 -
+experience engaging in a direct marketing distributorship or managing a small
+business of any sort. This factor weighs against petitioners.
+E. Petitioners' History of Income or Loss
+A series of losses during the initial or startup stage of an activity may not
+necessarily be an indication that the activity is not engaged in for profit. Sec.
+1.183-2(b)(6), Income Tax Regs.; see Golanty v. Commissioner, 72 T.C. at 427.
+However, where losses continue to be sustained beyond the period which
+customarily is necessary to bring the operation to profitable status, such continued
+losses, if not explainable, may indicate that the activity is not engaged in for profit.
+Sec. 1.183-2(b)(6), Income Tax Regs. The "goal must be to realize a profit on the
+entire operation, which presupposes not only future net earnings but also sufficient
+net earnings to recoup the losses which have meanwhile been sustained in the
+intervening years." Bessenyey v. Commissioner, 45 T.C. 261, 273-274 (1965),
+aff'd, 379 F.2d 252 (2d Cir. 1967); see also Nissley v. Commissioner, T.C. Memo.
+2000-178.
+At the time oftrial petitioners had never reported an annual profit in respect
+of the Amway activity. To the contrary, they reported cumulative net losses of
+$192,427 from 2005 through 2011. The modest gross receipts that petitioners
+derived from the activity have been eclipsed by the substantial expenses they
+- 18 -
+incurred over the years. Although petitioners testified that they believe the
+Amway activity will eventually generate profits, we cannot discern on this record
+any definitive trend to the upside for petitioners, and there certainly is no
+indication that they are on their way to the level ofprofitability that would allow
+them to recoup the substantial cumulative lósses they have incurred to date. In
+sum, petitioners' history of consistent and substantial losses is indicative of a lack
+ofprofit objective. See Golanty v. Commissioner, 72 T.C. at 427; Ogden v.
+Commissioner, T.C. Memo. 1999-397. This factor weighs against petitioners.
+F. Occasional Profits
+The amount ofprofits in relation to the amount of losses incurred, and in
+relation to the amount ofthe taxpayer's investment and the value of the assets used
+in the activity, may provide useful criteria in determining the taxpayer's intent.
+Sec. 1.183-2(b)(7), Income Tax Regs. As discussed above, petitioners' Amway
+activity has produced little in the way of annual receipts and no profits and
+resulted in a sustained pattern of substantial losses. Petitioners' inability to earn a
+profit is indicative oftheir lack ofprofit motive. See Golanty v. Commissioner, 72
+T.C. at 427; Nissley v. Commissioner, T.C. Memo. 2000-178. This factor weighs
+against petitioners.
+- 19 -
+G. Petitioners' Financial Status
+The fact that the taxpayer does not have substantial income or capital from
+sources other than the activity may indicate that an activity is engaged in for
+profit. Sec. 1.183-2(b)(8), Income Tax Regs. Substantial income from sources
+other than the activity, particularly if the losses from the activity generate
+substantial tax benefits, may indicate that the activity is not engaged in for profit.
+Id.
+Dr. Mikhail is a successful physician, and his wages are the primary source
+ofpetitioners' income. During 2007, the final year ofhis residency, he earned
+wages of $64,097. During 2008, 2009, 2010, and 2011 his wages increased to
+$145,235, $157,621, $165,146, and $168,627 respectively. The losses that
+petitioners have claimed from the Amway activity served to offset substantial
+amounts ofDr. Mikhail's wages, decreasing petitioners' taxable income and
+achieving substantial tax savings. This factor weighs against petitioners.
+H. Elements of Personal Pleasure or Recreation
+The presence ofpersonal motives in carrying on an activity may indicate
+that the activity is not engaged in for profit, especially where there are elements of
+recreation or personal pleasure. Sec. 1.183-2(b)(9), Income Tax Regs.
+- 20 -
+We have previously observed that "there are significant elements of
+personal pleasure attached to the activities of an Amway distributorship" and that
+"'an Amway distributorship presents taxpayers with opportunities to generate
+business deductions for essentially personal expenditures'" Campbell v.
+Commissioner, T.C. Memo. 2011-42 (quoting Brennan v. Commissioner, T.C.
+Memo. 1997-60).
+The record shows that petitioners used their Amway distributorship as a
+means to generate deductions for essentially personal expenditures and to enjoy
+discounts on items they purchased for personal consumption. The availability of
+consumer product discounts for personal use merchandise is a factor supporting
+the conclusion that petitioners lacked a profit objective. See Campbell v.
+Commissioner, T.C. Memo. 2011-42; Nissley v. Commissioner, T.C. Memo.
+2000-178; Ogden v. Commissioner, T.C. Memo. 1999-397.
+We also note that petitioners (1) traveled together to attend Amway
+seminars and conferences in various cities, (2) took trips to New York and Texas
+to discuss Amway with family and friends, and (3) hosted meetings that had a
+social component. All things considered, we conclude that petitioners derived
+personal benefits and pleasure from the Amway activity. This factor weighs
+against petitioners.
+-21-
+I. Conclusion
+Considering all the facts and circumstances, we hold that petitioners did not
+conduct the Amway activity in a businesslike manner and respondent has
+demonstrated by a preponderance ofthe evidence that they did not engage in the
+activity with the requisite profit objective during the taxable year 2009.
+Consequently, we sustain respondent's assertion, set forth in his amendment to
+answer, that petitioners are not entitled to a deduction for the net loss of $39,919
+that they reported on Schedule C in respect of the Amway activity for 2009.
+IL Accuracy-Related Penalty
+Section 6662(a) and (b)(1) and (2) imposes a penalty equal to 20% ofthe
+amount of any underpayment oftax that is attributable to: (1) negligence or
+disregard of rules or regulations or (2) any substantial understatement of income
+tax. The term "negligence" includes any failure to make a reasonable attempt to
+comply with tax laws, and "disregard" includes any careless, reckless, or
+intentional disregard of rules or regulations. Sec. 6662(c). An understatement
+means the excess of the amount ofthe tax required to be shown on the return over
+the amount ofthe tax imposed which is shown on the return, reduced by any
+rebate. Sec. 6662(d)(2)(A). An understatement is substantial in the case of an
+individual ifthe amount ofthe understatement for the taxable year exceeds the
+- 22 -
+greater of 10% ofthe tax required to be shown on the return or $5,000. Sec.
+6662(d)(1)(A).
+Section 6664(c)(1) provides an exception to the imposition ofthe accuracy-
+related penalty ifthe taxpayer establishes that there was reasonable cause for, and
+the taxpayer acted in good faith with respect to, the underpayment. Sec. 1.6664-
+4(a), IncomeTax Regs. The determination of whether the taxpayer acted with
+reasonable cause and in good faith is made on a case-by-case basis, taking into
+account the pertinent facts and circumstances. Sec. 1.6664-4(b)(1), Income Tax
+Regs. Reliance on a tax professional may demonstrate that the taxpayer had
+reasonable cause and acted in good faith where the taxpayer establishes that
+(1) the adviser was a competent professional with sufficient expertise to justify the
+taxpayer's reliance, (2) the taxpayer provided the adviser with necessary and
+accurate information, and (3) the taxpayer actually relied in good faith on the
+adviser's judgment. 3K Inv. Partners v. Commissioner, 133 T.C. 112, 117 (2009);
+DeCleene v. Commissioner, 115 T.C. 457, 477 (2000).
+With respect to an individual taxpayer's liability for any penalty, section
+7491(c) places on the Commissioner the burden ofproduction, thereby requiring
+the Commissioner to come forward with sufficient evidence indicating that it is
+appropriate to impose the penalty. Higbee v. Commissioner, 116 T.C. at 446-447.
+- 23 -
+Once the Commissioner meets his burden of production, the taxpayer must come
+forward with persuasive evidence that the Commissioner's determination is
+incorrect. Id. at 447; seee Rule 142(a); Welch v. Helvering, 290 U.S. at 115.
+Respondent has discharged his burden ofproduction under section 7491(c) by
+showing that petitioners had a substantial understatement of income tax for 2009
+within the meaning of section 6662(d)(1)(A).5
+Before filing their tax return for 2009, petitioners had claimed deductions in
+respect of losses attributable to the Amway activity for several years without
+challenge by the Internal Revenue Service. Petitioners maintained records oftheir
+annual Amway-related expenses and, on this record, we cannot say that those
+records were incomplete, inaccurate, or in any way misleading. Petitioners relied
+on Mr. Hienstand, a C.P.A., to prepare a complete and correct return for the year
+in issue. Considering all the facts and circumstances, we conclude that there was
+reasonable cause for, and petitioners acted in good faith with respect to, the
+underpayment. Sec. 1.6664-4(a), Income Tax Regs. Consequently, we hold that
+petitioners are not liable for an accuracy-related penalty for 2009.
+5Respondent originally determined a deficiency of $8,286 for the year in issue--an amount that exceeds 10% ofthe tax required to be shown on the return. The understatement of income tax attributable to the disallowance of a deduction equal to petitioners' net loss from the Amway activity for 2009 will exceed the original deficiency amount.
+- 24 -
+To reflect the foregoing,
+Decision will be entered
+under Rule 155.
